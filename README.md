@@ -1,5 +1,5 @@
 ## Assalamu'alaikum wr. wb
-![Hello](my_banner.png "ddd")
+![Hello](https://github.com/bayufanani/bayufanani/blob/master/my_banner.png?raw=true "ddd")
 
 Proficient in fullstack PHP, a little good at Node js, and currently learning docker, scalable app and other fun stuffs i can do in my free times.  
 
